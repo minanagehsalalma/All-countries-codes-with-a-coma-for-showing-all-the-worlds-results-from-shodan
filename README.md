@@ -10,3 +10,6 @@ country:"AF,AL,DZ,AD,AO,AG,AR,AM,AU,AT,AZ,BS,BS,BD,BB,BY,BE,BZ,BJ,BT,BO,BA,BW,BR
 
 showing 
 482,195,713 RESULTS at time of writing.
+
+Update 2022 : 
+542,085,040
